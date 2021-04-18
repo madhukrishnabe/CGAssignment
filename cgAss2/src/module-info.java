@@ -1,0 +1,2 @@
+module cgAss2 {
+}
